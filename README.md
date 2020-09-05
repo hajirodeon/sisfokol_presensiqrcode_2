@@ -12,7 +12,7 @@ source code ini basis php mysql. pastikan menggunakan webserver xampp php7.4.8 .
 
 2. Setting file "/inc/config.php" pastikan setting dengan benar. [<a href="https://github.com/hajirodeon/sisfokol_presensiqrcode/blob/master/filebox/config.jpeg">Contoh Config</a>]
 
-3. kalau sudah benar, maka bisa login admin dengan User : admin, Password : biasawae
+3. kalau sudah benar, maka bisa login admin dengan User : admin, Password : Sisfokol2020
 
 4. install apk android (bisa cek di folder filebox), ke hp android kamu. dan coba jalankan.
 
